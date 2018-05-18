@@ -1,5 +1,6 @@
 import random
 import turtle
+
 wn=turtle.Screen()
 snake=turtle.Turtle()
 myturt=turtle.Turtle()
