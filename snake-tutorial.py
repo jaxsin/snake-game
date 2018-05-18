@@ -1,3 +1,5 @@
+# from https://pythonspot.com/snake-with-pygame/
+
 from pygame.locals import *
 import pygame
 
