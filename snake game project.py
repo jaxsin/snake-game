@@ -29,7 +29,7 @@ for i in tfood_id:
 
 """
 def goforward():
-    snake.forward(10)
+    snake.forward(1)
     print(snake.pos())
     count=0
     for i in tfood_coord:
